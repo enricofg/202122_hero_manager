@@ -1,5 +1,0 @@
-{
-    "yaml.schemas": {
-        "https://raw.githubusercontent.com/compose-spec/compose-spec/master/schema/compose-spec.json": "file:///Users/joaoramos/MEGAsync/Docente/Aulas/202122_CloudComputing/02_Practical/PracticalLab2/code/2021-marvel-hero-manager/app/docker-compose.yaml"
-    }
-}
