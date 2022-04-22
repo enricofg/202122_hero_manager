@@ -20,10 +20,6 @@ services:
             - DB_HOST=hero_manager_database
             - DB_PORT=27017
             - DB_NAME=heroManager
-            - WAIT_HOSTS=hero_manager_database:27017
-            - WAIT_HOSTS_TIMEOUT=300
-            - WAIT_SLEEP_INTERVAL=30
-            - WAIT_HOST_CONNECT_TIMEOUT=30
         env_file: .env
     hero_manager_frontend:
         image: hero_manager_frontend_image
