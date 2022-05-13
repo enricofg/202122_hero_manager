@@ -1,7 +1,6 @@
 //###############
 //CHANGE ME
 const BACKEND_URL = '';
-//###############
 
 const processStatistics = (data) => {
     data.reverse();
